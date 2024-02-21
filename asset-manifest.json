@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Shreekanth_Portfolio/static/css/main.ccebdf99.css",
+    "main.js": "/Shreekanth_Portfolio/static/js/main.1857b10e.js",
+    "static/media/react-img1.JPG": "/Shreekanth_Portfolio/static/media/react-img1.00b198a0f0c818cb02aa.JPG",
+    "index.html": "/Shreekanth_Portfolio/index.html",
+    "main.ccebdf99.css.map": "/Shreekanth_Portfolio/static/css/main.ccebdf99.css.map",
+    "main.1857b10e.js.map": "/Shreekanth_Portfolio/static/js/main.1857b10e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccebdf99.css",
+    "static/js/main.1857b10e.js"
+  ]
+}
