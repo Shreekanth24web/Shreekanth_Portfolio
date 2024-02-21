@@ -25,7 +25,7 @@ const Home = () => {
                                     <div>
                                           <div className='home2-hand'>
                                                 <h1>Hi</h1>
-                                                <img src='./images/hand_icon.png' alt="hand_icon.png" /> <h1>,</h1>
+                                                <img src='images/hand_icon.png' alt="hand_icon.png" /> <h1>,</h1>
                                           </div>
                                           <div className='home2-hand-name'>
                                                 <h1>I'm  <span>Shreekantha</span>,</h1>
@@ -35,7 +35,7 @@ const Home = () => {
                                           </div>
                                     </div>
                                     <div className='home2-profile-img'>
-                                          <img src="/images/img-03.jpg" alt="Profile_img" />
+                                          <img src="images/img-03.JPG" alt="Profile_img" />
                                     </div>
                               </div>
                               <div className='home2-hand-about'>
