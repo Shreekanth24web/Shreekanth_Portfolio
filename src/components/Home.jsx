@@ -3,7 +3,8 @@ import { AiFillHtml5, AiFillGithub } from "react-icons/ai"
 import { SiCss3, SiJavascript, SiBootstrap, SiReact } from "react-icons/si"
 import { Link } from 'react-router-dom'
 import "../style/home.css"
-
+import hand_png from './Asstes/images/hand_icon.png'
+import profile_img from './Asstes/images/img-03.jpg'
 const Home = () => {
       return (
 
@@ -25,7 +26,7 @@ const Home = () => {
                                     <div>
                                           <div className='home2-hand'>
                                                 <h1>Hi</h1>
-                                                <img src='images/hand_icon.png' alt="hand_icon.png" /> <h1>,</h1>
+                                                <img src={hand_png} alt="hand_icon.png" /> <h1>,</h1>
                                           </div>
                                           <div className='home2-hand-name'>
                                                 <h1>I'm  <span>Shreekantha</span>,</h1>
@@ -35,7 +36,7 @@ const Home = () => {
                                           </div>
                                     </div>
                                     <div className='home2-profile-img'>
-                                          <img src="images/img-03.JPG" alt="Profile_img" />
+                                          <img src= {profile_img} alt="Profile_img" />
                                     </div>
                               </div>
                               <div className='home2-hand-about'>
